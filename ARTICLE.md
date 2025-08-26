@@ -5,4 +5,6 @@ This article links to a recent research paper that claim that although avoiding 
 
 For example, software engineers may look into multiple sections of the code to find an error in which the program crashes in a code section far away from where the error is found. AI commonly struggles with this and would hallucinate to claim the sections of code that once executed result in a crash but are NOT the cause of the crash are the code lines causing the crash. Another notable section in this article describes how giving a prompt to a large-language model to generate a code and readjusting that prompt again and again can take longer than just having a human write the code itself. This dichotomy between what the program is supposed to do and what the program is actually doing is more well-suited for human software engineers than AI tools.
 
+Proof reading:
+
 Article checked for typos
