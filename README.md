@@ -3,3 +3,5 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
 Mujtaba Kamran
+
+[Link to my merged PR on Yeerdanat's repository:](https://github.com/cs-uh-2012-fall25/i1-git-practice-yeerdanat/pull/2)
