@@ -1,4 +1,4 @@
-Here is an article regarding how AI isn't ready to code by itself just yet: 
+Here is an article regarding how AI isn't ready to code by itself just yet:
 [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)
 
 This article links to a recent research paper that claim that although avoiding AI in any case when coding can nowadays be seen as primitive, relying too much on it could actually make coding harder than if a human were to just code a section or program by himself or herself.
@@ -8,3 +8,11 @@ For example, software engineers may look into multiple sections of the code to f
 Proof reading:
 
 Article checked for typos
+
+Comment on the Article:
+
+I found the following article very interesting and insightful. The paper highlights that AI cannot completely replace developers. However, relying entirely on AI can backfire, as it may introduce subtle errors across different parts of a system. Fixing these issues can often take more time than if the developer had written the code themselves.
+
+The main takeaway I got is that while AI can be a helpful tool for coding small parts and functions, it still cannot replace humans. Large codebases still do require human judgment.
+
+Comment written by Yerdanat Kurmantayev
