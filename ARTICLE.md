@@ -11,5 +11,8 @@ The tech industry is evolving at an incredible pace, so staying up to date with 
 # Proof Reading 
 Article checked for Typos
 
+# Ameena's Comments
+As the article mentioned, it seems that nowadays it is critical to stay on top of new releases and trends in the tech industry because not knowing about a state-of-the-art technlology in any field is a huge disadvantage.
+
 # Link to forked repository
 https://github.com/cs-uh-2012-fall25/i1-git-practice-MujtabaKamran
